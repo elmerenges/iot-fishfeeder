@@ -1,4 +1,5 @@
 # iot-fishfeeder
+Inspired by: http://www.melesol.com/2015/09/wifi-for-everything-4-fish-feeder.html
 
 ## Parts list
 - [Battery powered automatic fish feeder](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=Battery+Powered+Time+Settable+Automatic+Fish+Feeder+Black+for+Aquarium+N1Z5&_sacat=0)
@@ -8,6 +9,7 @@
 - male&female pin header
 - jumper wire
 - wemos d1 mini
+- micro USB cable and power supply
 
 ## Prototype
 ![Prototype](images/prototype.jpg?raw=true "Prototype")
