@@ -10,4 +10,4 @@
 - wemos d1 mini
 
 ## PCB view
-[[https://github.com/elmerenges/iot-fishfeeder/blob/master/images/pcb.png|alt=pcb]]
+![PCB](images/pcb.png?raw=true "PCB")
