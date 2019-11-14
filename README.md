@@ -6,8 +6,9 @@ Inspired by: http://www.melesol.com/2015/09/wifi-for-everything-4-fish-feeder.ht
 - BS170 NPN transistor
 - 1k resistor
 - 100k resistor
-- male&female pin header
-- jumper wire
+- 2x2 male pin header
+- 2x8 female pin header
+- 4 male-female jumper wires
 - wemos d1 mini
 - micro USB cable and power supply
 
