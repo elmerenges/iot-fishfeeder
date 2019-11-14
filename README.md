@@ -9,5 +9,11 @@
 - jumper wire
 - wemos d1 mini
 
+## Prototype
+![Prototype](images/prototype.jpg?raw=true "Prototype")
+
 ## PCB view
-![PCB](images/pcb.png?raw=true "PCB")
+![PCB template](images/pcb.png?raw=true "PCB view")
+
+## PCB
+![PCB](images/pcb_done.jpg?raw=true "PCB")
